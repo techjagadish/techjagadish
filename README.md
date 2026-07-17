@@ -183,8 +183,6 @@ Building intelligent AI applications that solve real-world problems.
 
 🚀 Enterprise AI Agents
 
-🧠 Interview Summarization Agent
-
 📄 Intelligent Documentation Assistant
 
 🤖 AI Email Generator
